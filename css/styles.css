@@ -77,7 +77,7 @@ a {
 }
 
 .solutions-btn:hover,
-.solution-btn:focus {
+.solutions-btn:focus {
 background-color: #404bbf;
 }
 
@@ -148,6 +148,7 @@ background-color: #404bbf;
    }
 
      .portfolio-title {
+    text-transform: capitalize;
     font-weight: 700;
     font-size: 36px;
     line-height: 1.11;
